@@ -1,0 +1,718 @@
+[
+    {
+        "name": "Abbotsford Community Services", 
+        "events": [
+            "Triple P Parenting"
+        ]
+    }, 
+    {
+        "name": "Agassiz-Harrison Community Services", 
+        "events": [
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Aldergrove Neighbourhood Services Society", 
+        "events": [
+            "Mother Goose", 
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Alexandra Neighbourhood House", 
+        "events": [
+            "Mother Goose"
+        ]
+    }, 
+    {
+        "name": "Beacon Community Services", 
+        "events": [
+            "Mother Goose", 
+            "Triple P Parenting"
+        ]
+    }, 
+    {
+        "name": "Blanshard Community Centre", 
+        "events": [
+            "Triple P Parenting"
+        ]
+    }, 
+    {
+        "name": "Bowen Island Family Place Association", 
+        "events": [
+            "Mother Goose"
+        ]
+    }, 
+    {
+        "name": "Boys & Girls Clubs of Central Vancouver Island (Lantzville)", 
+        "events": [
+            "Triple P Parenting"
+        ]
+    }, 
+    {
+        "name": "Burnaby Family Life Institute", 
+        "events": [
+            "Mother Goose", 
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Burnside Gorge Community Association", 
+        "events": [
+            "Mother Goose", 
+            "Triple P Parenting"
+        ]
+    }, 
+    {
+        "name": "Campbell River Family Services", 
+        "events": [
+            "Triple P Parenting"
+        ]
+    }, 
+    {
+        "name": "Cariboo Family Enrichment Centre", 
+        "events": [
+            "Mother Goose", 
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "CFB Esquimalt Military Family Resource Centre", 
+        "events": [
+            "Triple P Parenting"
+        ]
+    }, 
+    {
+        "name": "Chilliwack Community Services", 
+        "events": [
+            "Mother Goose", 
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "College of New Caledonia Family Centred Program", 
+        "events": [
+            "Mother Goose"
+        ]
+    }, 
+    {
+        "name": "Collingwood Neighbourhood House Society", 
+        "events": [
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Community Connections Society of Southeast BC", 
+        "events": [
+            "Mother Goose", 
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Eastside Family Place Society", 
+        "events": [
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Enderby & District Community Resource Centre", 
+        "events": [
+            "Mother Goose"
+        ]
+    }, 
+    {
+        "name": "Esquimalt Neighbourhood House", 
+        "events": [
+            "Mother Goose", 
+            "Triple P Parenting"
+        ]
+    }, 
+    {
+        "name": "Family Services of the North Shore", 
+        "events": [
+            "Mother Goose"
+        ]
+    }, 
+    {
+        "name": "Federation des parents Francophones de C.-B.", 
+        "events": [
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Fernwood Neighbourhood Resource Group", 
+        "events": [
+            "Mother Goose"
+        ]
+    }, 
+    {
+        "name": "Frog Hollow Neighbourhood House", 
+        "events": [
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Houston Link to Learning", 
+        "events": [
+            "Mother Goose"
+        ]
+    }, 
+    {
+        "name": "James Bay Community Project", 
+        "events": [
+            "Mother Goose", 
+            "Triple P Parenting"
+        ]
+    }, 
+    {
+        "name": "Kamloops Community YMCA-YWCA", 
+        "events": [
+            "Mother Goose", 
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Kitsilano Neighbourhood House", 
+        "events": [
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Kiwassa Neighbourhood House", 
+        "events": [
+            "Mother Goose", 
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Kootenay Family Place", 
+        "events": [
+            "Mother Goose"
+        ]
+    }, 
+    {
+        "name": "Ladysmith Resources Centre Association", 
+        "events": [
+            "Mother Goose", 
+            "Triple P Parenting"
+        ]
+    }, 
+    {
+        "name": "Little Mountain Neighbourhood House", 
+        "events": [
+            "Mother Goose", 
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Mackenzie Counselling Services Society", 
+        "events": [
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Marpole Oakridge Family Place Society", 
+        "events": [
+            "Mother Goose", 
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Mission Community Services", 
+        "events": [
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Mount Pleasant Family Centre", 
+        "events": [
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Mount Pleasant Neighbourhood House", 
+        "events": [
+            "Mother Goose"
+        ]
+    }, 
+    {
+        "name": "New Westminster Family Place Society", 
+        "events": [
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Nil/Tu, O Child & Family Services", 
+        "events": [
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "North Kootenay Lake Community Services Society", 
+        "events": [
+            "Mother Goose", 
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "North Peace Community Resources Society", 
+        "events": [
+            "Mother Goose", 
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Okanagan Boys and Girls Clubs", 
+        "events": [
+            "Mother Goose"
+        ]
+    }, 
+    {
+        "name": "Options Community Services", 
+        "events": [
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Pender Island Child Care Society", 
+        "events": [
+            "Mother Goose"
+        ]
+    }, 
+    {
+        "name": "Prince George Native Friendship Centre", 
+        "events": [
+            "Mother Goose", 
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Ray Cam Cooperative Centre", 
+        "events": [
+            "Mother Goose", 
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Richmond Family Place Society", 
+        "events": [
+            "Mother Goose", 
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Saanich Neighbourhood Place", 
+        "events": [
+            "Mother Goose", 
+            "Triple P Parenting"
+        ]
+    }, 
+    {
+        "name": "Salmo Community Resource Society", 
+        "events": [
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Salt Spring Island and Southern Gulf Islands Community Services Society", 
+        "events": [
+            "Mother Goose"
+        ]
+    }, 
+    {
+        "name": "SHARE Family & Community Services Society", 
+        "events": [
+            "Mother Goose", 
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Shuswap Children's Association", 
+        "events": [
+            "Mother Goose"
+        ]
+    }, 
+    {
+        "name": "Sooke Family Resource Society", 
+        "events": [
+            "Mother Goose", 
+            "Triple P Parenting"
+        ]
+    }, 
+    {
+        "name": "South Vancouver Family Place Society", 
+        "events": [
+            "Mother Goose", 
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "South Vancouver Neighbourhood House", 
+        "events": [
+            "Mother Goose", 
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Step-by-Step Child Development", 
+        "events": [
+            "Mother Goose"
+        ]
+    }, 
+    {
+        "name": "Sunshine Coast Community Services", 
+        "events": [
+            "Mother Goose"
+        ]
+    }, 
+    {
+        "name": "The Hope Centre", 
+        "events": [
+            "Mother Goose"
+        ]
+    }, 
+    {
+        "name": "Trail Family and Individual Resource Centre Society", 
+        "events": [
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Tri-City Family Place Society", 
+        "events": [
+            "Mother Goose", 
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Uvic Family Centre", 
+        "events": [
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "West Side Family Place Society", 
+        "events": [
+            "Mother Goose", 
+            "Nobody's Perfect"
+        ]
+    }, 
+    {
+        "name": "Westcoast Family Centres Society", 
+        "events": [
+            "Mother Goose"
+        ]
+    }, 
+    {
+        "name": "Boston Bar/North Bend Enhancement Society", 
+        "events": []
+    }, 
+    {
+        "name": "Boys & Girls Clubs of South Coast BC (Ladner/Delta)", 
+        "events": []
+    }, 
+    {
+        "name": "Hope Community Services", 
+        "events": []
+    }, 
+    {
+        "name": "Langley Community Services Society", 
+        "events": []
+    }, 
+    {
+        "name": "Kla-how-eya Aboriginal Centre (SACS)", 
+        "events": []
+    }, 
+    {
+        "name": "Semiahmoo Family Place Association", 
+        "events": []
+    }, 
+    {
+        "name": "Tsawwassen First Nation", 
+        "events": []
+    }, 
+    {
+        "name": "Blueberry Creek Community School", 
+        "events": []
+    }, 
+    {
+        "name": "Creston & District Community Resource Centre Society (Creston Family Place)", 
+        "events": []
+    }, 
+    {
+        "name": "Fauquier Community Club", 
+        "events": []
+    }, 
+    {
+        "name": "Boundary Family & Individual Services Society", 
+        "events": []
+    }, 
+    {
+        "name": "Family Resource Centre of Invermere", 
+        "events": []
+    }, 
+    {
+        "name": "Kamloops Family Resources Society", 
+        "events": []
+    }, 
+    {
+        "name": "Kelowna Child Care Society", 
+        "events": []
+    }, 
+    {
+        "name": "The Bridge Youth and Family Services", 
+        "events": []
+    }, 
+    {
+        "name": "Nzen'man' Child & Family Development Centre", 
+        "events": []
+    }, 
+    {
+        "name": "Merritt Youth & Family Resources Society", 
+        "events": []
+    }, 
+    {
+        "name": "Arrow and Slocan Lakes Community Services", 
+        "events": []
+    }, 
+    {
+        "name": "Kootenay Kids Society", 
+        "events": []
+    }, 
+    {
+        "name": "Penticton & District Community Resources Society", 
+        "events": []
+    }, 
+    {
+        "name": "Princeton Family Services Society", 
+        "events": []
+    }, 
+    {
+        "name": "Shuswap Family Resource & Referral Society", 
+        "events": []
+    }, 
+    {
+        "name": "Columbia Basin Family Resource Society", 
+        "events": []
+    }, 
+    {
+        "name": "First Nations Friendship Centre (Vernon)", 
+        "events": []
+    }, 
+    {
+        "name": "North Okanagan Child Care Society", 
+        "events": []
+    }, 
+    {
+        "name": "Cariboo Chilcotin Child Development Centre Association", 
+        "events": []
+    }, 
+    {
+        "name": "Tansi Friendship Centre Society", 
+        "events": []
+    }, 
+    {
+        "name": "South Peace Child Development", 
+        "events": []
+    }, 
+    {
+        "name": "Fort Nelson Family Development Society", 
+        "events": []
+    }, 
+    {
+        "name": "Nak'azdli Band", 
+        "events": []
+    }, 
+    {
+        "name": "Parents & Tots Playgroup Society", 
+        "events": []
+    }, 
+    {
+        "name": "United Church Health Services Society", 
+        "events": []
+    }, 
+    {
+        "name": "Kitimat Child Development Centre", 
+        "events": []
+    }, 
+    {
+        "name": "Carney Hill Neighbourhood Centre", 
+        "events": []
+    }, 
+    {
+        "name": "Carrier Sekani Family Services", 
+        "events": []
+    }, 
+    {
+        "name": "South Fort George Family Resource Centre (Prince George Elizabeth Fry Society)", 
+        "events": []
+    }, 
+    {
+        "name": "Kaien Anti Poverty Society", 
+        "events": []
+    }, 
+    {
+        "name": "North Cariboo Aboriginal Family Program", 
+        "events": []
+    }, 
+    {
+        "name": "Bulkley Valley Child Development Centre Society", 
+        "events": []
+    }, 
+    {
+        "name": "Dze L K'ant Friendship Centre Society", 
+        "events": []
+    }, 
+    {
+        "name": "Office of the Wet'suwet'en", 
+        "events": []
+    }, 
+    {
+        "name": "Tahlton Health & Social Services", 
+        "events": []
+    }, 
+    {
+        "name": "Terrace Women's Resource Centre Society", 
+        "events": []
+    }, 
+    {
+        "name": "St. Leonard's Youth and Family Services", 
+        "events": []
+    }, 
+    {
+        "name": "South Burnaby Neighbourhood House", 
+        "events": []
+    }, 
+    {
+        "name": "S.U.C.C.E.S.S. ", 
+        "events": []
+    }, 
+    {
+        "name": "YMCA Tri-Cities CCRR", 
+        "events": []
+    }, 
+    {
+        "name": "Maple Ridge / Pitt Meadows Community Services", 
+        "events": []
+    }, 
+    {
+        "name": "Hollyburn Family Services Society", 
+        "events": []
+    }, 
+    {
+        "name": "North Shore Neighbourhood House", 
+        "events": []
+    }, 
+    {
+        "name": "Parkgate Community Services Society", 
+        "events": []
+    }, 
+    {
+        "name": "Powell River Child, Youth & Family Services Society", 
+        "events": []
+    }, 
+    {
+        "name": "Powell River Employment Program Society", 
+        "events": []
+    }, 
+    {
+        "name": "Tla' Amin Health", 
+        "events": []
+    }, 
+    {
+        "name": "Sea to Sky Community Services", 
+        "events": []
+    }, 
+    {
+        "name": "Britannia Community Services Centre", 
+        "events": []
+    }, 
+    {
+        "name": "Cedar Cottage Neighbourhood House", 
+        "events": []
+    }, 
+    {
+        "name": "Downtown Eastside Neighbourhood House", 
+        "events": []
+    }, 
+    {
+        "name": "Hastings Community Association", 
+        "events": []
+    }, 
+    {
+        "name": "Mainland BC Military Family Resource Centre", 
+        "events": []
+    }, 
+    {
+        "name": "MOSAIC", 
+        "events": []
+    }, 
+    {
+        "name": "Vancouver Aboriginal Friendship Centre", 
+        "events": []
+    }, 
+    {
+        "name": "Black Creek Community Association", 
+        "events": []
+    }, 
+    {
+        "name": "Chemainus Community Schools' Association (Eagles Nest Family Resource Program)", 
+        "events": []
+    }, 
+    {
+        "name": "Comox Valley Family Services Assoc.", 
+        "events": []
+    }, 
+    {
+        "name": "Upper Island Women of Native Ancestry Society", 
+        "events": []
+    }, 
+    {
+        "name": "Cowichan Family Life Association", 
+        "events": []
+    }, 
+    {
+        "name": "VIHA-Healthy Beginnings", 
+        "events": []
+    }, 
+    {
+        "name": "Ladysmith Family & Friends", 
+        "events": []
+    }, 
+    {
+        "name": "Nanoose First Nation", 
+        "events": []
+    }, 
+    {
+        "name": "Comox Military Family Resource Centre", 
+        "events": []
+    }, 
+    {
+        "name": "Cortes Community Health Association", 
+        "events": []
+    }, 
+    {
+        "name": "Mayne Island Early Childhood Society", 
+        "events": []
+    }, 
+    {
+        "name": "Pacific Child & Family Enrichment Society (Pacific CARE)", 
+        "events": []
+    }, 
+    {
+        "name": "VIHA-Port Alberni Family Centre", 
+        "events": []
+    }, 
+    {
+        "name": "North Island Community Services Society", 
+        "events": []
+    }, 
+    {
+        "name": "Fairfield Gonzales Community Association", 
+        "events": []
+    }, 
+    {
+        "name": "Oaklands Community Centre", 
+        "events": []
+    }
+]

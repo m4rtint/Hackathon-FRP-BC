@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Old color palette.
+		Action bar color: #536B99
+	-->
+	
+	<!-- New color palette.
+		Blue:
+			Light:		(1, 184, 228)		#01B8E4
+			Medium:		(1, 157, 197)		#019DC5
+			Dark:		(1, 132, 165)		#0184A5
+		Green:
+			Light:		(242, 103, 36)		#BED850
+			Medium:		
+			Dark:		
+		Orange:
+			Light:		(190, 216, 80)		#F26724
+			Medium:		
+			Dark:		
+	-->
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:actionBarStyle">@style/ActionBarTheme</item>
+        <item name="android:actionBarWidgetTheme">@style/ActionBarWidgetTheme</item>
+    </style>
+    
+    <!-- Action bar theme. -->
+    <style name="ActionBarTheme" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+    	<item name="android:background">@drawable/gradient_actionbar</item>
+    </style>
+    
+    <style name="ActionBarWidgetTheme" parent="@android:style/Theme.Holo" >
+    	<item name="android:textColorHint">#C8FFFFFF</item>
+    </style>
+    
+    <!-- Contact Us TextView theme. -->
+    <style name="ContactUsText" parent="@android:style/Widget.Holo.TextView">
+    	<item name="android:textSize">18sp</item>
+    	<item name="android:bufferType">spannable</item>
+    </style>
+    
+    <!-- POI Details Button theme. -->
+    <style name="POIActionButton" parent="@android:style/Widget.Holo.Light.Button.Borderless.Small">
+		<item name="android:textSize">16sp</item>
+		<item name="android:padding">5dp</item>
+		<item name="android:background">@drawable/poi_action_button</item>
+    </style>
+
+</resources>

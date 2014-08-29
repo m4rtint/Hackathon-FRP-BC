@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent" >
+	
+	<ImageView
+		android:id="@+id/contactus_banner"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:scaleType="fitStart"
+		android:src="@drawable/banner_wide" />
+	
+	<TextView
+		android:id="@+id/contactus_name_display"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentTop="true"
+		android:layout_marginLeft="5dp"
+		android:layout_marginRight="5dp"
+		android:textSize="24sp"
+		style="@style/ContactUsText"
+		android:text="BC Association of Family Resource Programs" />
+		
+	<TextView
+		android:id="@+id/contactus_address_display"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"		
+		android:layout_below="@+id/contactus_name_display"
+		android:layout_marginLeft="5dp"
+		android:layout_marginRight="5dp"
+		style="@style/ContactUsText"
+		android:text="#203 - 2590 Granville Street, Vancouver, BC V6H 3H1" />
+		
+	<TextView
+		android:id="@+id/contactus_hours_display"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/contactus_address_display"
+		android:layout_marginLeft="5dp"
+		android:layout_marginRight="5dp"
+		style="@style/ContactUsText"
+		android:text="Open Monday - Friday, 9:00 AM to 4:30 PM" />
+		
+	<GridLayout
+		android:id="@+id/contactus_action_grid"
+		android:useDefaultMargins="true"
+		android:orientation="horizontal"
+		android:columnCount="4"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/contactus_hours_display"
+		android:layout_centerHorizontal="true">
+		
+		<Button
+			android:id="@+id/contactus_call_button"
+			android:drawableTop="@drawable/icon_call"
+			android:text="@string/action_poi_call"
+			style="@style/POIActionButton"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:onClick="callFRPBC"/>
+			
+		<Button
+			android:id="@+id/contactus_website_button"
+			android:drawableTop="@drawable/icon_website"
+			android:text="@string/action_poi_website"
+			style="@style/POIActionButton"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:onClick="websiteFRPBC"/>
+			
+		<Button
+			android:id="@+id/contactus_email_button"
+			android:drawableTop="@drawable/icon_new_email"
+			android:text="@string/action_poi_email"
+			style="@style/POIActionButton"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:onClick="emailFRPBC"/>
+		
+	</GridLayout>
+		
+	<!-- View
+		android:id="@+id/contactus_divider"
+		android:background="@android:color/darker_gray"
+		android:layout_marginLeft="5dp"
+		android:layout_marginRight="5dp"
+		android:layout_marginBottom="2dp"
+		android:layout_marginTop="2dp"
+		android:layout_width="match_parent"
+		android:layout_height="1dp"
+		android:layout_alignParentLeft="true"
+		android:layout_below="@+id/contactus_action_grid" />
+	
+	<RelativeLayout
+		android:id="@+id/contactus_exec_display"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/contactus_divider"
+		android:layout_marginLeft="5dp"
+		android:layout_marginRight="5dp" >
+		
+		<ImageButton
+			android:id="@+id/contactus_exec_display_email"
+			android:src="@drawable/icon_new_email"
+			android:onClick="emailExec"
+			style="@style/POIActionButton"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_alignParentRight="true" />
+
+		<TextView
+			android:id="@+id/contactus_exec_display_name"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_toLeftOf="@+id/contactus_exec_display_email"
+			style="@style/ContactUsText"
+			android:text="Marianne Drew-Pennington\nExecutive Director" />
+			
+	</RelativeLayout>
+	
+	<RelativeLayout
+		android:id="@+id/contactus_coordinator_display"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/contactus_exec_display"
+		android:layout_marginLeft="5dp"
+		android:layout_marginRight="5dp" >
+		
+		<ImageButton
+			android:id="@+id/contactus_coordinator_display_email"
+			android:src="@drawable/icon_new_email"
+			android:onClick="emailCoordinator"
+			style="@style/POIActionButton"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_alignParentRight="true" />
+
+		<TextView
+			android:id="@+id/contactus_coordinator_display_name"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_toLeftOf="@+id/contactus_coordinator_display_email"
+			style="@style/ContactUsText"
+			android:text="Debbie Jackson\nProgram / Member Services Coordinator" />
+			
+	</RelativeLayout -->
+
+</RelativeLayout>

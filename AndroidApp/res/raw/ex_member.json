@@ -1,0 +1,43 @@
+[
+	{
+		"pk": 1,
+		"model": "memdir.member",
+		"fields": {
+			"website": "http://www.abbotsfordcommunityservices.com/",
+			"standards_renewal_year": "2014", 
+			"geo_last_updated": "2014-06-19T16:35:18.285", 
+			"receipt": "279283", 
+			"updated": "2014-06-19", 
+			"standards_complete": true, 
+			"is_frp_member": false, 
+			"geo_lng": null, 
+			"street": "33780 Laurel Street", 
+			"postal_code": "V2S 3S9", 
+			"accredited": "carf", 
+			"membership_type": "bc-only", 
+			"city": "Abbotsford", 
+			"fee": "60", 
+			"geo_place": null, 
+			"agency": "Abbotsford Community Services", 
+			"mailing_street": "2420 Montrose Avenue", 
+			"geo_lat": null, 
+			"mailing_province": "BC", 
+			"renewal_date": "2015-04-01", 
+			"email": "shairose.jinnah@abbotsfordcommunityservices.com", 
+			"province": "BC", 
+			"fax": "(604) 859-6334", 
+			"description": "<p><span style=\"font-size: 12.222222328186035px; line-height: 19.18402862548828px; font-family: 'Trebuchet MS', Verdana, Arial, Helvetica, sans-serif;\">Family Centre welcomes all members of our community to a friendly, warm and comfortable place where adults and children can play together, meet new friends, gain new skills and share ideas.</span></p>", 
+			"agdirect": "Shairose Jinnah", 
+			"phone": "(604) 859-7681", 
+			"agdirect_title": "Director of Child, Youth and Family Services", 
+			"dirphone": "(604) 859-7681 ext 774", 
+			"memnum": 33, 
+			"notes": "Did not renew Joint Membership in 2014\r\n\r\nSTANDARDS:\r\nReceived: December 1, 2009\r\nRenewal: December 1, 2014", 
+			"mailing_postal_code": "V2S 3S9", 
+			"join_date": "2002-01-01", 
+			"mailing_city": "Abbotsford, BC", 
+			"paidfrp": true, 
+			"geo_last_address": "33780 Laurel Street, Abbotsford, BC V2S 3S9"
+		}
+	}
+]

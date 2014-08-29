@@ -1,0 +1,1216 @@
+[
+    {
+        "website": "http://www.abbotsfordcommunityservices.com/Our-Programs/Programs-for-Families", 
+        "name": "Abbotsford Family Centre", 
+        "agency": "Abbotsford Community Services", 
+        "phoneNumber": "(604) 859-7681", 
+        "location": {
+            "latitude": "49.046116", 
+            "longitude": "-122.290121", 
+            "address": "33780 Laurel Street, Abbotsford, BC V2S 3S9"
+        }, 
+        "hoursOfOperation": [
+            "Mon:09:00 AM - 11:15 AM", 
+            "Tue:09:30 AM - 11:45 AM", 
+            "Wed:09:00 AM - 11:15 AM", 
+            "Thur:09:30 AM - 10:30 AM"
+        ]
+    }, 
+    {
+        "website": "http://www.agassiz-harrison.org/services.html#fp", 
+        "name": "Agassiz-Harrison Family Place", 
+        "agency": "Agassiz-Harrison Community Services", 
+        "phoneNumber": "(604) 796-0313", 
+        "location": {
+            "latitude": "49.235782", 
+            "longitude": "-121.759066", 
+            "address": "7272 Morrow Road, Agassiz, BC V0M 1A0"
+        }, 
+        "hoursOfOperation": [
+            "Mon:09:30 AM - 12:00 PM", 
+            "Tue:10:30 AM - 12:30 PM", 
+            "Wed:09:30 AM - 12:00 PM", 
+            "Thur:09:30 AM - 12:00 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.bostonbarbc.net/services.html", 
+        "name": "Fraser Canyon Family Place", 
+        "agency": "Boston Bar/North Bend Enhancement Society", 
+        "phoneNumber": "(604) 867-9440", 
+        "location": {
+            "latitude": "49.861268", 
+            "longitude": "-121.440900", 
+            "address": "Box 251, Boston Bar, BC V0K 1C0"
+        }, 
+        "hoursOfOperation": [
+            "Mon:09:00 AM - 01:00 PM", 
+            "Tue:09:00 AM - 01:00 PM", 
+            "Wed:09:00 AM - 01:00 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.comserv.bc.ca/", 
+        "name": "Broadway Family Place", 
+        "agency": "Chilliwack Community Services", 
+        "phoneNumber": "(604) 792-1631", 
+        "location": {
+            "latitude": "49.162065", 
+            "longitude": "-121.936260", 
+            "address": "46551 Chilliwack Central Road, Chilliwack, BC V2P 1K1"
+        }, 
+        "hoursOfOperation": [
+            "Thur:09:00 AM - 05:00 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.hopecommunityservices.com/", 
+        "name": "Hope Family Place", 
+        "agency": "Hope Community Services", 
+        "phoneNumber": "(604) 869-2466  Ext. 403", 
+        "location": {
+            "latitude": "49.410661", 
+            "longitude": "-121.369421", 
+            "address": "604 Hudson Bay, Hope, BC V0X 1L1"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.lcss.ca/", 
+        "name": "Family Place North", 
+        "agency": "Langley Community Services Society", 
+        "phoneNumber": "(604) 534-7921", 
+        "location": {
+            "latitude": "49.165978", 
+            "longitude": "-122.639269", 
+            "address": "8899 Walnut Grove Drive, Langley, BC V1M 2N7"
+        }, 
+        "hoursOfOperation": [
+            "Tue:09:00 AM - 10:45 AM", 
+            "Thur:09:00 AM - 10:45 AM"
+        ]
+    }, 
+    {
+        "website": "http://www.missioncommunityservices.com/", 
+        "name": "Mission \"4 Kids\" Family Place", 
+        "agency": "Mission Community Services", 
+        "phoneNumber": "(604) 826-3323  Ext. 237", 
+        "location": {
+            "latitude": "49.136221", 
+            "longitude": "-122.307169", 
+            "address": "7369 James Street, Mission, BC V2V 3V7"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "", 
+        "name": "Alexandra Family Place", 
+        "agency": "Alexandra Neighbourhood House", 
+        "phoneNumber": "(604) 538-5060", 
+        "location": {
+            "latitude": "49.030290", 
+            "longitude": "-122.794036", 
+            "address": "15455 Vine Avenue, Surrey-White Rock, BC V4B 2T3"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.tsawwassenfirstnation.com/", 
+        "name": "Aboriginal Family Resources on the Go (AFROG)", 
+        "agency": "Tsawwassen First Nation", 
+        "phoneNumber": "(604) 943-1139", 
+        "location": {
+            "latitude": "49.042347", 
+            "longitude": "-123.100920", 
+            "address": "1926 Tsawwassen Dr., Tsawwassen, BC V4M 4G2"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.cariboofamily.org/", 
+        "name": "Early Years Programs", 
+        "agency": "Cariboo Family Enrichment Centre", 
+        "phoneNumber": "(250) 395-5155  Ext. 24", 
+        "location": {
+            "latitude": "51.640299", 
+            "longitude": "-121.295959", 
+            "address": "486 South Birch, 100 Mile House, BC V0K 2E0"
+        }, 
+        "hoursOfOperation": [
+            "Mon:09:00 AM - 04:00 PM", 
+            "Tue:09:00 AM - 04:00 PM", 
+            "Wed:09:00 AM - 04:00 PM", 
+            "Thur:09:00 AM - 04:00 PM", 
+            "Fri:09:00 AM - 04:00 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.boundaryfamily.org/", 
+        "name": "Beaverdell Family Centre", 
+        "agency": "Boundary Family & Individual Services Society", 
+        "phoneNumber": "(250) 442-2267", 
+        "location": {
+            "latitude": "49.620941", 
+            "longitude": "-118.960870", 
+            "address": "Box 116 - 5873 Hwy 33, Beaverdell, BC V0H 1A0"
+        }, 
+        "hoursOfOperation": [
+            "Tue:09:00 AM - 11:30 AM"
+        ]
+    }, 
+    {
+        "website": "http://www.blueberrycreekcommunityschool.org/", 
+        "name": "Blueberry Creek StrongStart", 
+        "agency": "Blueberry Creek Community School", 
+        "phoneNumber": "(250) 365-7201", 
+        "location": {
+            "latitude": "49.244341", 
+            "longitude": "-117.658989", 
+            "address": "200 Centre Avenue, Castlegar, BC V1N 3B9"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.boundaryfamily.org/", 
+        "name": "Christina Lake Family Centre", 
+        "agency": "Boundary Family & Individual Services Society", 
+        "phoneNumber": "(250) 442-2267", 
+        "location": {
+            "latitude": "49.2367", 
+            "longitude": "-118.12621", 
+            "address": "Box 240 - 49 West Lake Drive, Christina Lake, BC V0H 1E0"
+        }, 
+        "hoursOfOperation": [
+            "Mon:08:30 AM - 11:30 AM", 
+            "Tue:12:30 PM - 03:30 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.kootenaykids.ca/", 
+        "name": "Crawford Bay StrongStart", 
+        "agency": "Kootenay Kids Society", 
+        "phoneNumber": "(250) 352-6678", 
+        "location": {
+            "latitude": "49.681288", 
+            "longitude": "-116.824230", 
+            "address": "Box 100, Crawford Bay, BC V0B 1E0"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.cdcrcs.org/", 
+        "name": "Creston Valley Family Place", 
+        "agency": "Creston & District Community Resource Centre Society", 
+        "phoneNumber": "(250) 428-0218", 
+        "location": {
+            "latitude": "49.095540", 
+            "longitude": "-116.513508", 
+            "address": "Box 187, Creston, BC V0B 1G0"
+        }, 
+        "hoursOfOperation": [
+            "Mon:10:00 AM - 01:30 PM", 
+            "Tue:09:00 AM - 11:30 AM", 
+            "Wed:09:30 AM - 11:30 AM", 
+            "Thur:09:30 AM - 04:00 PM", 
+            "Fri:09:00 AM - 12:00 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.edcrc.ca/", 
+        "name": "Enderby Family Place", 
+        "agency": "Enderby & District Community Resource Centre", 
+        "phoneNumber": "(250) 838-9446", 
+        "location": {
+            "latitude": "50.552676", 
+            "longitude": "-119.138618", 
+            "address": "1110 Belvedere Street, Enderby, BC V0E 1V0"
+        }, 
+        "hoursOfOperation": [
+            "Wed:08:00 AM - 12:00 PM"
+        ]
+    }, 
+    {
+        "website": "", 
+        "name": "Edgewood Elementary School", 
+        "agency": "Fauquier Community Club", 
+        "phoneNumber": "(250) 269-0034", 
+        "location": {
+            "latitude": "49.780102", 
+            "longitude": "-118.145293", 
+            "address": ", Edgewood, BC V0G 1J0"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.trailfair.ca/", 
+        "name": "Fruitvale Elementary StrongStart", 
+        "agency": "Trail Family and Individual Resource Centre Society", 
+        "phoneNumber": "(250) 364-2326", 
+        "location": {
+            "latitude": "49.111548", 
+            "longitude": "-117.544200", 
+            "address": "1867 Columbia Gardens Road, Fruitvale, BC V0G 1L1"
+        }, 
+        "hoursOfOperation": [
+            "Mon:09:00 AM - 12:00 PM", 
+            "Tue:09:00 AM - 12:00 PM", 
+            "Wed:11:00 AM - 02:30 PM", 
+            "Thur:09:00 AM - 12:00 PM", 
+            "Fri:09:00 AM - 12:00 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.boundaryfamily.org/", 
+        "name": "Glanville Family Centre", 
+        "agency": "Boundary Family & Individual Services Society", 
+        "phoneNumber": "(250) 442-2267  Ext. 161", 
+        "location": {
+            "latitude": "49.029928", 
+            "longitude": "-118.452793", 
+            "address": "1200 Central Avenue, Grand Forks, BC V0H 1H0"
+        }, 
+        "hoursOfOperation": [
+            "Mon:08:30 AM - 04:30 PM", 
+            "Tue:08:30 AM - 04:30 PM", 
+            "Wed:08:30 AM - 04:30 PM", 
+            "Thur:08:30 AM - 04:30 PM", 
+            "Fri:08:30 AM - 04:30 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.boundaryfamily.org/", 
+        "name": "Greenwood Family Centre", 
+        "agency": "Boundary Family & Individual Services Society", 
+        "phoneNumber": "(250) 442-2267", 
+        "location": {
+            "latitude": "49.106424", 
+            "longitude": "-118.676907", 
+            "address": "Box 219 - 785 N. Copper Rd., Greenwood, BC V0H 1J0"
+        }, 
+        "hoursOfOperation": [
+            "Mon:01:00 PM - 04:00 PM", 
+            "Wed:01:00 PM - 04:00 PM", 
+            "Fri:09:00 AM - 12:00 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.familyresourcecentre.ca/programs.html", 
+        "name": "Growing Together: Parenting for Healthy Development", 
+        "agency": "Family Resource Centre of Invermere", 
+        "phoneNumber": "(250) 342-5566", 
+        "location": {
+            "latitude": "50.502617", 
+            "longitude": "-116.027095", 
+            "address": "1317 - 7th Avenue, Invermere, BC V0A 1K0"
+        }, 
+        "hoursOfOperation": [
+            "Mon:08:30 AM - 12:00 PM, 01:00 PM - 04:30 PM", 
+            "Tue:08:30 AM - 12:00 PM, 01:00 PM - 04:30 PM", 
+            "Wed:08:30 AM - 12:00 PM, 01:00 PM - 04:30 PM", 
+            "Thur:08:30 AM - 12:00 PM, 01:00 PM - 04:30 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.kfrs.ca/", 
+        "name": "Family Tree Drop-in Program", 
+        "agency": "Kamloops Family Resource Society", 
+        "phoneNumber": "(250) 377-6850", 
+        "location": {
+            "latitude": "50.677868", 
+            "longitude": "-120.345795", 
+            "address": "283 Victoria Street West, Kamloops, BC V2C 1A5"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.nklcss.org/", 
+        "name": "Parent & Child Time (PACT)", 
+        "agency": "North Kootenay Lake Community Services Society", 
+        "phoneNumber": "(250) 353-7691", 
+        "location": {
+            "latitude": "49.910200", 
+            "longitude": "-116.904324", 
+            "address": "336 B Ave., Kaslo, BC V0G 1M0"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.kelownachildcare.com/", 
+        "name": "Central Okanagan FRP", 
+        "agency": "Kelowna Child Care Society", 
+        "phoneNumber": "(250) 762-3536", 
+        "location": {
+            "latitude": "49.879638", 
+            "longitude": "-119.450025", 
+            "address": "#4 - 1890 Ambrosi Rd., Kelowna, BC V1Y 4R9"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.boysandgirlsclubs.ca/club_main.php?target=penticton", 
+        "name": "Lake Country Family Resource Program", 
+        "agency": "Okanagan Boys and Girls Clubs", 
+        "phoneNumber": "(250) 766-5277", 
+        "location": {
+            "latitude": "50.029438", 
+            "longitude": "-119.404519", 
+            "address": "3130 Berry Road, Winfield, BC V4V 1V2"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.nzenman.org/", 
+        "name": "Nzen'man' Family Drop-in", 
+        "agency": "Nzen'man' Child & Family Development Centre", 
+        "phoneNumber": "(250) 455-2661", 
+        "location": {
+            "latitude": "50.233429", 
+            "longitude": "-121.580654", 
+            "address": "270-7th Street, Lytton, BC V0K 1Z0"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.boundaryfamily.org/", 
+        "name": "Midway Family Centre", 
+        "agency": "Boundary Family & Individual Services Society", 
+        "phoneNumber": "(250) 442-2267", 
+        "location": {
+            "latitude": "49.010219", 
+            "longitude": "-118.774354", 
+            "address": "Box 40 - 540  7th Ave, Midway, BC V0H 1M0"
+        }, 
+        "hoursOfOperation": [
+            "Mon:09:00 AM - 12:00 PM", 
+            "Thur:01:00 PM - 04:00 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.kootenaykids.ca/", 
+        "name": "Blewitt StrongStart", 
+        "agency": "Kootenay Kids Society", 
+        "phoneNumber": "(250) 352-6678", 
+        "location": {
+            "latitude": "49.491723", 
+            "longitude": "-117.368860", 
+            "address": "2665 Blewett Road, Nelson, BC V1L 6V4"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.thebridgeservices.ca/", 
+        "name": "Peachland Family Resource Program", 
+        "agency": "The Bridge Youth and Family Services", 
+        "phoneNumber": "(250) 763-0456", 
+        "location": {
+            "latitude": "49.776871", 
+            "longitude": "-119.735642", 
+            "address": "RR 6 - 4450 6th Street, Peachland, BC V0H 1X6"
+        }, 
+        "hoursOfOperation": [
+            "Wed:11:00 AM - 01:00 PM", 
+            "Fri:09:30 AM - 11:30 AM"
+        ]
+    }, 
+    {
+        "website": "http://www.pdcrs.com/", 
+        "name": "Family Centre Outreach", 
+        "agency": "Penticton & District Community Resources Society", 
+        "phoneNumber": "(250) 487-3362", 
+        "location": {
+            "latitude": "49.498413", 
+            "longitude": "-119.590462", 
+            "address": "330 Ellis Street, Penticton, BC V2A 4L7"
+        }, 
+        "hoursOfOperation": [
+            "Wed:10:00 AM - 12:00 PM"
+        ]
+    }, 
+    {
+        "website": "", 
+        "name": "Princeton Family Place", 
+        "agency": "Princeton Family Services Society", 
+        "phoneNumber": "(250) 295-3126", 
+        "location": {
+            "latitude": "49.460722", 
+            "longitude": "-120.506108", 
+            "address": "56 Kenley Ave., Princeton, BC V0X 1W0"
+        }, 
+        "hoursOfOperation": [
+            "Tue:10:00 AM - 02:00 PM", 
+            "Wed:10:00 AM - 02:00 PM", 
+            "Thur:10:00 AM - 02:00 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.boundaryfamily.org/", 
+        "name": "Rock Creek Family Centre", 
+        "agency": "Boundary Family & Individual Services Society", 
+        "phoneNumber": "(250) 442-2267", 
+        "location": {
+            "latitude": "49.053772", 
+            "longitude": "-118.968701", 
+            "address": "S-120 / C-11 / RR2 - 4035 S Kettle Valley Rd, Rock Creek, BC V0H 1Y0"
+        }, 
+        "hoursOfOperation": [
+            "Tue:01:00 PM - 04:00 PM", 
+            "Thur:09:00 AM - 12:00 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.shuswapchildrens.ca/", 
+        "name": "North Canoe Playgroup", 
+        "agency": "Shuswap Children's Association", 
+        "phoneNumber": "(250) 833-0164", 
+        "location": {
+            "latitude": "50.746164", 
+            "longitude": "-119.227009", 
+            "address": "6451 - 50th Street N.E., Canoe, BC V0E 1K0"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.shuswapchildrens.ca/", 
+        "name": "Sicamous Parent's and Tots", 
+        "agency": "Shuswap Children's Association", 
+        "phoneNumber": "(250) 836-3440", 
+        "location": {
+            "latitude": "50.828705", 
+            "longitude": "-118.980554", 
+            "address": "705 Cherry Avenue, Sicamous, BC V0E 2V1"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.fnfcvernon.com/", 
+        "name": "Aboriginal Infant & Early Development Program", 
+        "agency": "Vernon First Nations Friendship Centre", 
+        "phoneNumber": "(250) 542-7578", 
+        "location": {
+            "latitude": "50.263023", 
+            "longitude": "-119.270031", 
+            "address": "2904 - 29th Avenue, Vernon, BC V1T 1Y7"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.boysandgirlsclubs.ca/club_main.php?target=penticton", 
+        "name": "Westside Family Resource Program", 
+        "agency": "Okanagan Boys and Girls Clubs", 
+        "phoneNumber": "(250) 768-3049", 
+        "location": {
+            "latitude": "49.831178", 
+            "longitude": "-119.651639", 
+            "address": "2829 Inverness Road, West Bank, BC V4T 1J5"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.cccdca.org/", 
+        "name": "Child Development Centre", 
+        "agency": "Cariboo Chilcotin Child Development Centre Association", 
+        "phoneNumber": "(250) 392-4481 ext. 202", 
+        "location": {
+            "latitude": "52.138582", 
+            "longitude": "-122.150469", 
+            "address": "690 Second Avenue, Williams Lake, BC V2G 4C4"
+        }, 
+        "hoursOfOperation": [
+            "Mon:08:30 AM - 04:30 PM", 
+            "Tue:08:30 AM - 04:30 PM", 
+            "Wed:08:30 AM - 04:30 PM", 
+            "Thur:08:30 AM - 04:30 PM", 
+            "Fri:08:30 AM - 04:30 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.cnc.bc.ca/Campuses/Lakes_District_Campus/Children__Family_and_Community_Programs/Family_Centred_Program.htm", 
+        "name": "CNC - Family Centred Program", 
+        "agency": "College of New Caledonia Family Centred Program", 
+        "phoneNumber": "(250) 692-1717", 
+        "location": {
+            "latitude": "54.685637", 
+            "longitude": "-125.347859", 
+            "address": "Box 5000, Burns Lake, BC V0J 1E0"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.bcaafc.com/", 
+        "name": "Kici-Awasimsak Child/Family Development Centre", 
+        "agency": "Tansi Friendship Centre Society", 
+        "phoneNumber": "(250) 788-2882     OR   (250) 788-2823", 
+        "location": {
+            "latitude": "55.696913", 
+            "longitude": "-121.632429", 
+            "address": "5101 South Access Road, Chetwynd, BC V0C 1J0"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.spcdc.ca/", 
+        "name": "IDP Playgroup", 
+        "agency": "South Peace Child Development Centre", 
+        "phoneNumber": "(250) 782-1161", 
+        "location": {
+            "latitude": "55.773424", 
+            "longitude": "-120.229612", 
+            "address": "9001 - 10th Street, Dawson Creek, BC V1G 4T1"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.bcaafc.com/centres/smithers", 
+        "name": "Dease Lake (Pregancy Outreach Program) Drop-in", 
+        "agency": "Dze L K'ant Friendship Centre Society", 
+        "phoneNumber": "(250) 771-3147", 
+        "location": {
+            "latitude": "58.438959", 
+            "longitude": "-129.993730", 
+            "address": "3rd Avenue (Box 328), Dease Lake, BC V0C 1L0"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://familyfriendlycommunity.ca/home", 
+        "name": "Fort Nelson Family Development", 
+        "agency": "Fort Nelson Family Development Society", 
+        "phoneNumber": "(250) 774-2596  Ext. 23", 
+        "location": {
+            "latitude": "58.805088", 
+            "longitude": "-122.697231", 
+            "address": "5012 Airport Drive, Fort Nelson, BC V0C 1R0"
+        }, 
+        "hoursOfOperation": [
+            "Tue:09:00 AM - 04:30 PM", 
+            "Thur:09:00 AM - 04:30 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.nakazdli.ca/", 
+        "name": "Nak'azdli Family Resource Centre", 
+        "agency": "Nak'azdli Band", 
+        "phoneNumber": "(250) 996-7171  Ext. 272", 
+        "location": {
+            "latitude": "54.417619", 
+            "longitude": "-124.267248", 
+            "address": "Highway 27, Fort St. James, BC V0J 1P0"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "", 
+        "name": "Fort St. John Playgroup", 
+        "agency": "Parents & Tots Playgroup Society", 
+        "phoneNumber": "(250) 785-2718", 
+        "location": {
+            "latitude": "56.253786", 
+            "longitude": "-120.844074", 
+            "address": "9812 - 108 Avenue, Fort St. John, BC V1J 2R3"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "", 
+        "name": "Little Flowers Learning Hub", 
+        "agency": "United Church Health Services Society", 
+        "phoneNumber": "(250) 842-4608", 
+        "location": {
+            "latitude": "55.244936", 
+            "longitude": "-127.586442", 
+            "address": "Bowser Avenue, New Hazelton, BC V0J 2J0"
+        }, 
+        "hoursOfOperation": [
+            "Mon:10:00 AM - 02:00 PM", 
+            "Fri:10:00 AM - 02:00 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.bcaafc.com/centres/smithers", 
+        "name": "Houston (Pregancy Outreach Program) Drop-in", 
+        "agency": "Dze L K'ant Friendship Centre Society", 
+        "phoneNumber": "(250) 845-2131", 
+        "location": {
+            "latitude": "54.410689", 
+            "longitude": "-127.867952", 
+            "address": "3383, 11th Ave (Box 2920), , BC V0J 2N0"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.kitimatcdc.ca/", 
+        "name": "Kitimat - Family Fun Spot", 
+        "agency": "Kitimat Child Development Centre", 
+        "phoneNumber": "(250) 632-3144  Ext. 60", 
+        "location": {
+            "latitude": "54.062531", 
+            "longitude": "-128.627245", 
+            "address": "1515 Kingfisher Avenue, Kitimat, BC V8C 1S5"
+        }, 
+        "hoursOfOperation": [
+            "Mon:01:00 PM - 03:00 PM", 
+            "Wed:10:30 AM - 12:30 PM", 
+            "Fri:01:00 PM - 03:00 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.mackenziecounselling.ca/", 
+        "name": "Mackenzie - Parents & Tots", 
+        "agency": "Mackenzie Counselling Services Society", 
+        "phoneNumber": "(250) 997-6595  Ext. 235", 
+        "location": {
+            "latitude": "55.334830", 
+            "longitude": "-123.094865", 
+            "address": "220 Mackenzie Blvd, Mackenzie, BC V0J 2C0"
+        }, 
+        "hoursOfOperation": [
+            "Wed:10:00 AM - 12:00 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.pgnfc.com/", 
+        "name": "Aboriginal Infant & Family Development Program", 
+        "agency": "Prince George Native Friendship Centre", 
+        "phoneNumber": "(250) 564-5941", 
+        "location": {
+            "latitude": "53.917768", 
+            "longitude": "-122.741339", 
+            "address": "138 George Street, Prince George, BC V2L 1P9"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "", 
+        "name": "Little Moose Drop-in & Parent Circle", 
+        "agency": "North Cariboo Aboriginal Family Program", 
+        "phoneNumber": "(250) 992-9160", 
+        "location": {
+            "latitude": "52.978355", 
+            "longitude": "-122.504242", 
+            "address": "#2-423 Elliot St., Quesnel, BC V2J 1Y6"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.wetsuweten.com/human-social-services/58/early-childhood-development-program", 
+        "name": "Early Childhood Development Program", 
+        "agency": "Office of the Wet'suwet'en Nation", 
+        "phoneNumber": "(250) 847-1834", 
+        "location": {
+            "latitude": "54.781438", 
+            "longitude": "-127.172392", 
+            "address": "3883 Second Avenue, Smithers, BC V0J 2N1"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "", 
+        "name": "Terrace Family Place", 
+        "agency": "Terrace Women's Resource Centre Society", 
+        "phoneNumber": "(250) 638-1863", 
+        "location": {
+            "latitude": "54.517949", 
+            "longitude": "-128.584902", 
+            "address": "4553 Park Avenue, Terrace, BC V8G 1V3"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.bowenislandfamilyplace.com/", 
+        "name": "Bowen Island Family Place", 
+        "agency": "Bowen Island Children's Centre", 
+        "phoneNumber": "(604) 947-2717", 
+        "location": {
+            "latitude": "49.381020", 
+            "longitude": "-123.350030", 
+            "address": "650 Carter Road, Snug Cove / Bowen Island, BC V0N 1G2"
+        }, 
+        "hoursOfOperation": [
+            "Mon:10:00 AM - 01:00 PM", 
+            "Tue:10:00 AM - 01:00 PM", 
+            "Wed:10:00 AM - 01:00 PM", 
+            "Thur:10:00 AM - 01:00 PM", 
+            "Fri:11:00 AM - 01:00 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.burnabyfamilylife.org/", 
+        "name": "Baby & Me (Edmonds Resource Ctr.)", 
+        "agency": "Burnaby Family Life Institute", 
+        "phoneNumber": "(604) 659-2206", 
+        "location": {
+            "latitude": "49.223678", 
+            "longitude": "-122.940618", 
+            "address": "204 - 7355 Canada Way, Burnaby, BC V3N 4Z6"
+        }, 
+        "hoursOfOperation": [
+            "Thur:11:30 AM - 02:00 PM", 
+            "Fri:10:00 AM - 12:00 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.vanymca.org/childcare/ccrr/index.html", 
+        "name": "Circle of Friends Family Resource Program", 
+        "agency": "YMCA Tri-Cities CCRR", 
+        "phoneNumber": "(604) 937-1239", 
+        "location": {
+            "latitude": "49.267376", 
+            "longitude": "-122.764535", 
+            "address": "1730 Coquitlam Avenue, Port Coquitlam, BC V3B 1E5"
+        }, 
+        "hoursOfOperation": [
+            "Tue:09:00 AM - 12:00 PM", 
+            "Thur:09:00 AM - 12:00 PM", 
+            "Fri:09:00 AM - 12:00 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.sccss.ca/", 
+        "name": "Bellies & Babies", 
+        "agency": "Sunshine Coast Community Services Society", 
+        "phoneNumber": "(604) 885-5881  Ext. 225", 
+        "location": {
+            "latitude": "49.409278", 
+            "longitude": "-123.523232", 
+            "address": "700 Park Road, Gibsons, BC V0N 1V0"
+        }, 
+        "hoursOfOperation": [
+            "Mon:11:00 AM - 01:00 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.comservice.bc.ca/", 
+        "name": "Community Services Family Place", 
+        "agency": "Maple Ridge / Pitt Meadows Community Services", 
+        "phoneNumber": "(604) 466-8484  Ext. 222", 
+        "location": {
+            "latitude": "49.218692", 
+            "longitude": "-122.602880", 
+            "address": "22359 - 119th Avenue, Maple Ridge, BC V2X 2Z2"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.familyservices.bc.ca/", 
+        "name": "I hope family centre (Central)", 
+        "agency": "Family Services of the North Shore", 
+        "phoneNumber": "(604) 982-2083", 
+        "location": {
+            "latitude": "49.18879", 
+            "longitude": "-123.5097", 
+            "address": "101-255 W. 1st Street, North Vancouver, BC V7M 3G8"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.sscs.ca/", 
+        "name": "Pemberton StrongStart Drop-in", 
+        "agency": "Sea to Sky Community Services", 
+        "phoneNumber": "(604) 894-6101", 
+        "location": {
+            "latitude": "50.321319", 
+            "longitude": "-122.809023", 
+            "address": "1357 Aster Street, Pemberton, BC V0N 2L0"
+        }, 
+        "hoursOfOperation": [
+            "Mon:09:00 AM - 12:00 PM", 
+            "Tue:09:00 AM - 12:00 PM", 
+            "Wed:09:00 AM - 12:00 PM", 
+            "Thur:09:00 AM - 12:00 PM", 
+            "Fri:09:00 AM - 12:00 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.westcoastfamily.org/", 
+        "name": "Tri-Cities Program", 
+        "agency": "Westcoast Family Centres Society", 
+        "phoneNumber": "(604) 944-2500", 
+        "location": {
+            "latitude": "49.268229", 
+            "longitude": "-122.772818", 
+            "address": "2062 Manning Avenue, Port Coquitlam, BC V3B 1L6"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.sharesociety.ca/", 
+        "name": "Clarke Street Family Resource Centre", 
+        "agency": "SHARE Family & Community Services Society", 
+        "phoneNumber": "(604) 936-3900", 
+        "location": {
+            "latitude": "49.277654", 
+            "longitude": "-122.853559", 
+            "address": "2615 Clarke Street, Port Moody, BC V3H 1Z4"
+        }, 
+        "hoursOfOperation": [
+            "Wed:09:00 AM - 02:00 PM"
+        ]
+    }, 
+    {
+        "website": "", 
+        "name": "Aboriginal Child & Family Services, Parent Group, Family Programs", 
+        "agency": "Tla' Amin Health", 
+        "phoneNumber": "(604) 483-3009", 
+        "location": {
+            "latitude": "49.898227", 
+            "longitude": "-124.611462", 
+            "address": "4895 Salish Drive, Powell River, BC V8A 0B6"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.sccss.ca/", 
+        "name": "Bellies & Babies", 
+        "agency": "Sunshine Coast Community Services Society", 
+        "phoneNumber": "(604) 885-5881  Ext. 225", 
+        "location": {
+            "latitude": "49.476183", 
+            "longitude": "-123.756254", 
+            "address": "5638 Inlet Avenue, Sechelt, BC V0N 3A0"
+        }, 
+        "hoursOfOperation": [
+            "Tue:11:00 AM - 01:00 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.sscs.ca/", 
+        "name": "Squamish Parent & Tot Drop-in", 
+        "agency": "Sea to Sky Community Services", 
+        "phoneNumber": "(604) 892-5796  Ext. 239", 
+        "location": {
+            "latitude": "49.701139", 
+            "longitude": "-123.152684", 
+            "address": "38144 Second Avenue, Squamish, BC V8B 0A7"
+        }, 
+        "hoursOfOperation": [
+            "Mon:09:00 AM - 12:00 PM", 
+            "Tue:09:00 AM - 12:00 PM", 
+            "Wed:09:00 AM - 12:00 PM", 
+            "Thur:09:00 AM - 12:00 PM", 
+            "Fri:09:00 AM - 12:00 PM"
+        ]
+    }, 
+    {
+        "website": "http://cedarcottage.org/", 
+        "name": "Cedar Cottage Drop-in", 
+        "agency": "Cedar Cottage Neighbourhood House", 
+        "phoneNumber": "(604) 874-4231", 
+        "location": {
+            "latitude": "49.248798", 
+            "longitude": "-123.065054", 
+            "address": "4065 Victoria Drive, Vancouver, BC V5N 4M9"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://hollyburn.ca/?page_id=24", 
+        "name": "West Vancouver Family Place", 
+        "agency": "Hollyburn Family Services Society", 
+        "phoneNumber": "(778) 861-4350", 
+        "location": {
+            "latitude": "49.329949", 
+            "longitude": "-123.168217", 
+            "address": "2121 Marine Drive, West Vancouver, BC V7V 4Y2"
+        }, 
+        "hoursOfOperation": [
+            "Mon:09:00 AM - 12:00 PM", 
+            "Tue:09:00 AM - 12:00 PM", 
+            "Wed:09:00 AM - 12:00 PM", 
+            "Thur:09:00 AM - 12:00 PM", 
+            "Fri:09:00 AM - 12:00 PM", 
+            "Sat:09:00 AM - 10:30 AM"
+        ]
+    }, 
+    {
+        "website": "http://www.sscs.ca/", 
+        "name": "Whistler Parent & Tot Drop-in", 
+        "agency": "Sea to Sky Community Services", 
+        "phoneNumber": "(604) 892-5796", 
+        "location": {
+            "latitude": "50.127087", 
+            "longitude": "-122.962972", 
+            "address": "6195 Lorimer Road / RR6, Whistler, BC V0N 1B6"
+        }, 
+        "hoursOfOperation": [
+            "Tue:09:00 AM - 12:00 PM", 
+            "Wed:09:00 AM - 12:00 PM", 
+            "Thur:09:00 AM - 12:00 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.bccaonline.ca/", 
+        "name": "Black Creek Parent & Peanut", 
+        "agency": "Black Creek Community Association", 
+        "phoneNumber": "(250) 337-5190", 
+        "location": {
+            "latitude": "49.814375", 
+            "longitude": "-125.115099", 
+            "address": "2001 Black Creek Rd., Black Creek, BC V9J 1G5"
+        }, 
+        "hoursOfOperation": [
+            "Fri:10:30 AM - 12:00 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.crfamilyservices.ca/", 
+        "name": "Campbell River Family Place", 
+        "agency": "Campbell River Family Services", 
+        "phoneNumber": "(250) 287-2421", 
+        "location": {
+            "latitude": "50.025023", 
+            "longitude": "-125.246381", 
+            "address": "487-10th Ave., Campbell River, BC V9W 4E4"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.bgccvi.com/content.asp?L=E&DocID=25", 
+        "name": "BGCCVI-Chase River Family Place", 
+        "agency": "Boys & Girls Clubs of Central Vancouver Island", 
+        "phoneNumber": "(250) 753-2464", 
+        "location": {
+            "latitude": "49.126068", 
+            "longitude": "-123.919902", 
+            "address": "1400 Cranberry, Chase River, BC V9R 6Z7"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "", 
+        "name": "Eagles' Nest Family Resource Program", 
+        "agency": "Chemainus Community Schools' Association", 
+        "phoneNumber": "(250) 246-3588  Ext. 227", 
+        "location": {
+            "latitude": "48.930920", 
+            "longitude": "-123.732925", 
+            "address": "3172 Garner Street, Chemainus, BC V0R 1K2"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "", 
+        "name": "Westshore Family Resource Program", 
+        "agency": "Sooke Family Resource Society", 
+        "phoneNumber": "(250) 642-5152", 
+        "location": {
+            "latitude": "48.444255", 
+            "longitude": "-123.476162", 
+            "address": "345 Wale Road, Colwood, BC V9B 6X2"
+        }, 
+        "hoursOfOperation": [
+            "Mon:08:30 AM - 04:30 PM", 
+            "Tue:08:30 AM - 04:30 PM", 
+            "Wed:08:30 AM - 04:30 PM", 
+            "Thur:08:30 AM - 04:30 PM", 
+            "Fri:08:30 AM - 04:30 PM"
+        ]
+    }, 
+    {
+        "website": "", 
+        "name": "Cortes Drop-in", 
+        "agency": "Cortes Community Health Association", 
+        "phoneNumber": "(250) 935-6608", 
+        "location": {
+            "latitude": "50.055658", 
+            "longitude": "-124.988339", 
+            "address": "951 Beasley Road, Manson's Landing, BC V0P 1K0"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "", 
+        "name": "Comox Valley Aboriginal Head Start", 
+        "agency": "Upper Island Women of Native Ancestry Society", 
+        "phoneNumber": "(250) 334-2477  Ext. 102", 
+        "location": {
+            "latitude": "49.686329", 
+            "longitude": "-124.999802", 
+            "address": "956 Grieve Avenue, Courtenay, BC V9N 2T9"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.cowichanfamilylife.org/", 
+        "name": "Cowichan Community Resource Bus", 
+        "agency": "Cowichan Family Life Association", 
+        "phoneNumber": "(250) 748-8281", 
+        "location": {
+            "latitude": "48.762143", 
+            "longitude": "-123.688941", 
+            "address": "5 -Locations 1 day/week, Duncan, BC V9L 5J2"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.lrca.bc.ca/pdfs/026.pdf", 
+        "name": "Born Healthy", 
+        "agency": "Ladysmith Resources Centre Association", 
+        "phoneNumber": "(250) 245-3079", 
+        "location": {
+            "latitude": "48.993748", 
+            "longitude": "-123.820720", 
+            "address": "630 2nd Avenue, Ladysmith, BC V9G 1B2"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.bgccvi.com/content.asp?L=E&DocID=25", 
+        "name": "BGCCVI - Lantzville Family Place", 
+        "agency": "Boys & Girls Clubs of Central Vancouver Island", 
+        "phoneNumber": "(250) 390-4001", 
+        "location": {
+            "latitude": "49.251224", 
+            "longitude": "-124.076560", 
+            "address": "#7 - 7221 , Lantzville, BC V0R 2H0"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.familyforce.ca/", 
+        "name": "Creative Kids Family Programs", 
+        "agency": "Comox Military Family Resource Centre", 
+        "phoneNumber": "(250) 339-8032", 
+        "location": {
+            "latitude": "49.713711", 
+            "longitude": "-124.916543", 
+            "address": "1575 Military Row, Lazo, BC V0R 2K0"
+        }, 
+        "hoursOfOperation": [
+            "Mon:09:00 AM - 12:00 PM", 
+            "Tue:09:00 AM - 01:00 PM", 
+            "Wed:09:00 AM - 01:00 PM", 
+            "Thur:09:00 AM - 01:00 PM", 
+            "Fri:09:00 AM - 12:00 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.pacific-care.bc.ca/", 
+        "name": "Nanaimo Parent & Tot Program", 
+        "agency": "Pacific Child & Family Enrichment Society (Pacific CARE)", 
+        "phoneNumber": "(250) 756-2022", 
+        "location": {
+            "latitude": "49.208320", 
+            "longitude": "-124.002110", 
+            "address": "3156 Barons Road, Nanaimo, BC V9T 4B5"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.dragonflycentre.ca/", 
+        "name": "Dragonfly Child Care & Family Resource", 
+        "agency": "Pender Island Child Care Society", 
+        "phoneNumber": "(250) 629-3039", 
+        "location": {
+            "latitude": "48.764639", 
+            "longitude": "-123.269356", 
+            "address": "5714 Canal Road, Pender Island, BC V0N 2M1"
+        }, 
+        "hoursOfOperation": [
+            "Mon:09:00 AM - 11:30 AM", 
+            "Wed:08:45 AM - 10:00 AM", 
+            "Sat:09:00 AM - 11:30 AM"
+        ]
+    }, 
+    {
+        "website": "http://www.viha.ca/finding_care/facilities/central_island.htm", 
+        "name": "VIHA-Port Alberni Family Centre", 
+        "agency": "VIHA-Port Alberni Family Centre", 
+        "phoneNumber": "(250) 731-1315", 
+        "location": {
+            "latitude": "49.252849", 
+            "longitude": "-124.803048", 
+            "address": "4227 - 6th Avenue, Port Alberni, BC V9Y 4N1"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "", 
+        "name": "Port McNeill Family Centre", 
+        "agency": "North Island Community Services Society", 
+        "phoneNumber": "(250) 956-2273", 
+        "location": {
+            "latitude": "50.587567", 
+            "longitude": "-127.089528", 
+            "address": "375 Shelly Crescent, Port McNeill, BC V0N 2R0"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.niltuo.ca/", 
+        "name": "Family Drop-in Resource Group", 
+        "agency": "Nil/Tu, O Child & Family Services", 
+        "phoneNumber": "(250) 544-1400  Ext. 222", 
+        "location": {
+            "latitude": "48.594116", 
+            "longitude": "-123.397411", 
+            "address": "1 - 2475 Mt. Newton Cross Road, Saanichton, BC V8M 2B7"
+        }, 
+        "hoursOfOperation": [
+            "Mon:08:30 AM - 04:30 PM", 
+            "Tue:08:30 AM - 04:30 PM", 
+            "Wed:08:30 AM - 04:30 PM", 
+            "Thur:08:30 AM - 04:30 PM", 
+            "Fri:08:30 AM - 04:30 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.saltspringcommunityservices.ca/", 
+        "name": "Salt Spring Island Family Place", 
+        "agency": "Salt Spring Island and Southern Gulf Islands Community Services Society", 
+        "phoneNumber": "(250) 537-9176", 
+        "location": {
+            "latitude": "48.856132", 
+            "longitude": "-123.501241", 
+            "address": "120 Park Drive, Salt Spring Island, BC V8K 2R7"
+        }, 
+        "hoursOfOperation": []
+    }, 
+    {
+        "website": "http://www.beaconcs.ca/", 
+        "name": "Beacon Family Resource Centre", 
+        "agency": "Beacon Community Services", 
+        "phoneNumber": "(250) 655-5300", 
+        "location": {
+            "latitude": "48.650574", 
+            "longitude": "-123.397979", 
+            "address": "9860 - 3rd Street, Sidney, BC V8L 4R2"
+        }, 
+        "hoursOfOperation": [
+            "Mon:08:30 AM - 05:00 PM", 
+            "Tue:08:30 AM - 05:00 PM", 
+            "Wed:08:30 AM - 05:00 PM", 
+            "Thur:08:30 AM - 05:00 PM", 
+            "Fri:08:00 AM - 05:00 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.sfrs.ca/", 
+        "name": "Sooke Family Resource Program", 
+        "agency": "Sooke Family Resource Society", 
+        "phoneNumber": "(250) 642-5152  Ext. 247", 
+        "location": {
+            "latitude": "48.380571", 
+            "longitude": "-123.724641", 
+            "address": "105 - 2145 Townsend Road, Sooke, BC V9Z 0H3"
+        }, 
+        "hoursOfOperation": [
+            "Mon:08:30 AM - 04:30 PM", 
+            "Tue:08:30 AM - 04:30 PM", 
+            "Wed:08:30 AM - 04:30 PM", 
+            "Thur:08:30 AM - 04:30 PM", 
+            "Fri:08:30 AM - 04:30 PM"
+        ]
+    }, 
+    {
+        "website": "http://www.blanshardcc.com/", 
+        "name": "Blanshard Child and Family Program", 
+        "agency": "Blanshard Community Centre", 
+        "phoneNumber": "(250) 388-7696", 
+        "location": {
+            "latitude": "48.437099", 
+            "longitude": "-123.361195", 
+            "address": "901 Kings Road, Victoria, BC V8T 1W5"
+        }, 
+        "hoursOfOperation": []
+    }
+]

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/poi_info_layout"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent" >
+		
+	<TextView
+		android:id="@+id/poi_info_name"
+		android:text="POI name"
+		android:textSize="28sp"
+		android:layout_marginLeft="10dp"
+		android:layout_marginRight="10dp"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentTop="true"
+		android:layout_alignParentLeft="true"
+		android:layout_alignParentStart="true"/>
+		
+	<TextView
+		android:id="@+id/poi_info_agency"
+		android:text="Agency name"
+		android:textSize="20sp"
+		android:layout_marginLeft="10dp"
+		android:layout_marginRight="10dp"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/poi_info_name"
+		android:layout_alignParentLeft="true"
+		android:layout_alignParentStart="true"/>
+	
+	<!-- A divider, for prettiness. -->
+	<View
+		android:id="@+id/poi_info_divider"
+		android:background="@android:color/darker_gray"
+		android:layout_marginLeft="5dp"
+		android:layout_marginRight="5dp"
+		android:layout_marginBottom="2dp"
+		android:layout_marginTop="2dp"
+		android:layout_width="match_parent"
+		android:layout_height="1dp"
+		android:layout_alignParentLeft="true"
+		android:layout_alignParentStart="true"
+		android:layout_below="@+id/poi_info_agency" />
+		
+	<!-- These details are in a LinearLayout so if they are removed due to a 
+		lack of information, everything still aligns properly. -->
+	<LinearLayout
+		android:id="@+id/poi_info_details"
+		android:layout_marginLeft="10dp"
+		android:layout_marginRight="10dp"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/poi_info_divider"
+		android:layout_alignParentLeft="true"
+		android:layout_alignParentStart="true"
+		android:orientation="vertical" >
+		
+		<TextView
+			android:id="@+id/poi_info_address"
+			android:text="POI address"
+			android:textSize="16sp"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" />
+		
+		<TextView
+			android:id="@+id/poi_info_programs_title"
+			android:text="@string/programs_title"
+			android:textSize="16sp"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" />
+		
+		<TextView
+			android:id="@+id/poi_info_programs"
+			android:text="POI programs"
+			android:textSize="16sp"
+			android:layout_marginLeft="16dp"
+			android:layout_marginStart="16dp"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" />
+		
+		<TextView
+			android:id="@+id/poi_info_hours_title"
+			android:text="@string/hours_title"
+			android:textSize="16sp"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" />
+		
+		<TextView
+			android:id="@+id/poi_info_hours"
+			android:text="POI hours"
+			android:textSize="16sp"
+			android:layout_marginLeft="16dp"
+			android:layout_marginStart="16dp"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" />
+		
+		<TextView
+			android:id="@+id/poi_info_accreditation_title"
+			android:text="@string/accreditation_title"
+			android:textSize="16sp"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" />
+		
+		<TextView
+			android:id="@+id/poi_info_accreditation_description"
+			android:text="POI accreditation"
+			android:textSize="16sp"
+			android:layout_marginLeft="16dp"
+			android:layout_marginStart="16dp"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" />
+	
+	</LinearLayout>
+	
+	<!-- The action buttons are in a GridLayout so that when any of them are removed
+		due to a lack of information, they still line up properly. -->
+	<GridLayout
+		android:id="@+id/poi_info_action_grid"
+		android:useDefaultMargins="true"
+		android:orientation="horizontal"
+		android:columnCount="4"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/poi_info_details"
+		android:layout_centerHorizontal="true">
+		
+		<Button
+			android:id="@+id/poi_info_call_button"
+			android:drawableTop="@drawable/icon_call"
+			android:text="@string/action_poi_call"
+			style="@style/POIActionButton"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" />
+			
+		<Button
+			android:id="@+id/poi_info_website_button"
+			android:drawableTop="@drawable/icon_website"
+			android:text="@string/action_poi_website"
+			style="@style/POIActionButton"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" />
+			
+		<Button
+			android:id="@+id/poi_info_directions_button"
+			android:drawableTop="@drawable/icon_directions"
+			android:text="@string/action_poi_directions"
+			style="@style/POIActionButton"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" />
+			
+		<Button
+			android:id="@+id/poi_info_share_button"
+			android:drawableTop="@drawable/icon_share"
+			android:text="@string/action_poi_share"
+			style="@style/POIActionButton"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" />
+		
+	</GridLayout>
+	
+	
+</RelativeLayout>

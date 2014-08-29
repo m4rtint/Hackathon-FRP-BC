@@ -1,0 +1,31 @@
+[
+	{
+		"pk": 1, 
+		"model": "memdir.location", 
+		"fields": {
+			"website": "http://www.abbotsfordcommunityservices.com/Our-Programs/Programs-for-Families", 
+			"geo_last_updated": "2012-11-26T15:43:53", 
+			"community": "Abbotsford", 
+			"geo_lng": "-122.290121", 
+			"street": "33780 Laurel Street", 
+			"postal_code": "V2S 3S9", 
+			"city": "Abbotsford", 
+			"geo_place": "33780 Laurel St, Abbotsford, BC V2S 2C5, Canada", 
+			"mailing_street": "2420 Montrose Avenue", 
+			"geo_lat": "49.0461157", 
+			"member": 1, 
+			"mailing_province": "BC", 
+			"province": "BC", 
+			"fax": "(604) 859-6334", 
+			"frp_program_name": "Abbotsford Family Centre", 
+			"phone": "(604) 859-7681", 
+			"slug": "abbotsford-family-centre-fraservalley", 
+			"region": "fraservalley", 
+			"mailing_postal_code": "V2S 3S9", 
+			"mailing_city": "Abbotsford", 
+			"order": 0, 
+			"geo_last_address": "33780 Laurel Street, Abbotsford, BC V2S 3S9"
+		}
+	}
+]
+	
